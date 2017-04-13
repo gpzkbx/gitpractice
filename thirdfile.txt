@@ -1,1 +1,2 @@
 This is the third file.
+add a sentence written "hackable text editor".
